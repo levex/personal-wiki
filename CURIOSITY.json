@@ -1,0 +1,21 @@
+{
+	"links": [
+	{
+		"link": "http://www.usrsb.in/How-Old-School-C-Programmers-Process-Arguments.html",
+		"title": "How Old School C Programmers Process Arguments",
+		"notes": "Interesting read on how clever some argument processing can be",
+		"tags": [ "c" ]
+	},
+	{
+		"link": "https://mort.coffee/home/obscure-c-features/",
+		"title": "Some obscure C features you might not know about",
+		"tags": [ "c" ]
+	},
+	{
+		"link": "http://asquera.de/blog/2018-01-29/rust-lifetimes-for-the-uninitialised/",
+		"title": "Rust lifetimes for the Uninitialised",
+		"notes": "Cool and quick introduction to the borrow checker of Rust and its lifetimes",
+		"tags": [ "rust", "lifetimes" ]
+	}
+	]
+}
